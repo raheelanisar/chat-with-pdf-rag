@@ -116,6 +116,10 @@ http://127.0.0.1:7860
 <img width="640" height="317" alt="image" src="https://github.com/user-attachments/assets/af09ac04-fff9-41de-b2cb-f47505e50f03" />
 <img width="640" height="315" alt="image" src="https://github.com/user-attachments/assets/b896d702-f6a9-4069-94cb-0c643d6694b7" />
 
+app.py screenshots
+<img width="640" height="314" alt="image" src="https://github.com/user-attachments/assets/074e05c2-0e78-4bde-8de5-b263ece0d135" />
+<img width="639" height="319" alt="image" src="https://github.com/user-attachments/assets/b6a4ba68-395c-4dab-b2db-5c9c8ff310c8" />
+
 
 ---
 
